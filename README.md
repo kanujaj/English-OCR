@@ -10,4 +10,4 @@ Windows User \
 5.It will ask you for the image name--enter 'images.jpg'\
 Then enter--'1'\
 6.The message given in the image will display and will play.\
-PS:Make sure you have your sound onn so that you can hear the audio as well.\
+PS:Make sure you have your sound onn so that you can hear the audio as well.
